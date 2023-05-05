@@ -1,0 +1,1 @@
+Apenas um repositório para salvar meus exercícios feitos durante o curso de JavaScript da B7Web
